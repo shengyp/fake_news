@@ -1,8 +1,8 @@
-# KG_Construction
+# Fake_News_Detection
 
 
 
-Here, we are concentrate on collection of research papers relate to software engineering.   
+Here, we are concentrate on collection of research papers relate to fake news detection.   
 
 
 Table of Contents
