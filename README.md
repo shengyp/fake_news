@@ -26,6 +26,9 @@ Table of Contents
 2. Zobeir Raisi, Mohamed A. Naiel, Paul Fieguth, Steven Wardell, John Zelek. [Text Detection and Recognition in the Wild: A Review](https://arxiv.org/pdf/2006.04305.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2006.04305.pdf)
 
 
+3. 吴小坤, 赵甜芳. [自然语言处理技术在社会传播学中的应用研究和前景展望](http://www.jsjkx.com/CN/article/openArticlePDF.jsp?id=19090). 计算机科学 2020. [[Paper]](http://www.jsjkx.com/CN/article/openArticlePDF.jsp?id=19090)
+
+
 <!-- ## Multi-modal_Representation_Learning
 1. Huapeng Xu, Guilin Qi, Jingjing Li, Meng Wang, Kang Xu, Huan Gao. [Fine-grained Image Classification by Visual-Semantic Embedding](https://www.ijcai.org/Proceedings/2018/0145.pdf). IJCAI 2018. [[Paper]](https://www.ijcai.org/Proceedings/2018/0145.pdf) -->
 
