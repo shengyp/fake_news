@@ -29,6 +29,10 @@ Table of Contents
 3. 吴小坤, 赵甜芳. [自然语言处理技术在社会传播学中的应用研究和前景展望](http://www.jsjkx.com/CN/article/openArticlePDF.jsp?id=19090). 计算机科学 2020. [[Paper]](http://www.jsjkx.com/CN/article/openArticlePDF.jsp?id=19090)
 
 
+[【资源推荐】图神经网络的对抗攻击和防御相关文献集](https://github.com/ChandlerBang/awesome-graph-attack-papers). 
+
+
+
 <!-- ## Multi-modal_Representation_Learning
 1. Huapeng Xu, Guilin Qi, Jingjing Li, Meng Wang, Kang Xu, Huan Gao. [Fine-grained Image Classification by Visual-Semantic Embedding](https://www.ijcai.org/Proceedings/2018/0145.pdf). IJCAI 2018. [[Paper]](https://www.ijcai.org/Proceedings/2018/0145.pdf) -->
 
