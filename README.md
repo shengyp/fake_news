@@ -32,6 +32,8 @@ Table of Contents
 [【资源推荐】图神经网络的对抗攻击和防御相关文献集](https://github.com/ChandlerBang/awesome-graph-attack-papers). 
 
 
+[【资源推荐】基于图信息/图神经网络的欺诈检测文献与资源集锦](https://github.com/safe-graph/graph-fraud-detection-papers)
+
 
 <!-- ## Multi-modal_Representation_Learning
 1. Huapeng Xu, Guilin Qi, Jingjing Li, Meng Wang, Kang Xu, Huan Gao. [Fine-grained Image Classification by Visual-Semantic Embedding](https://www.ijcai.org/Proceedings/2018/0145.pdf). IJCAI 2018. [[Paper]](https://www.ijcai.org/Proceedings/2018/0145.pdf) -->
