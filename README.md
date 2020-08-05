@@ -34,8 +34,11 @@ Table of Contents
 
 [【资源推荐】基于图信息/图神经网络的欺诈检测文献与资源集锦](https://github.com/safe-graph/graph-fraud-detection-papers)
 
+
 [更新、挑错、识别假新闻，MIT推出维基百科AI编辑系统，志愿编辑者或被解（取）放（代）](https://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&mid=2247504734&idx=2&sn=56a39df7d2a8d450fcc057b639ba601e&chksm=cf7bb1a7f80c38b17e829cb2674daa317b484cecc6588fd796d8274dc5702bb09a0920a7883a&mpshare=1&scene=1&srcid=0721iTAmT5XmTP88S0UIctqH&sharer_sharetime=1595338678099&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=349ef81838e6cf3c301dc443f15ecc0216db7cdfe6680daad390ecef70fa7e046e4a57649699a299210bf4c28a2d9b9ae1f9eeaa4d1cdf8286bc6f17fd3e73ae79b5c47fba08fe148b71554ed0a91a8b&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AfNgp0Z8d91ph5ujsfM4GeQ%3D&pass_ticket=742stD4QfQtBM2dzDr8C1odLrmSrLQq%2BlQcwt%2B8Jwx7%2FYXbWSRp0UT8XjRt1eM0P)
 
+
+[友好对抗学习的研究进展与优势分析 | ICML 2020论文](https://mp.weixin.qq.com/s/6E8wHt17P-GP76cSEcwSjA)
 
 
 <!-- ## Multi-modal_Representation_Learning
