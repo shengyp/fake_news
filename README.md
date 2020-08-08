@@ -20,13 +20,16 @@ Table of Contents
 
 
 ## Review_on_Fake_News_Detection
-1. Ray Oshikawa, Jing Qian, William Yang Wang. [A Survey on Natural Language Processing for Fake News Detection](https://arxiv.org/pdf/1811.00770.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/1811.00770.pdf) 
+1. Ray Oshikawa, Jing Qian, and William Yang Wang. [A Survey on Natural Language Processing for Fake News Detection](https://arxiv.org/pdf/1811.00770.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/1811.00770.pdf) 
 
 
-2. Zobeir Raisi, Mohamed A. Naiel, Paul Fieguth, Steven Wardell, John Zelek. [Text Detection and Recognition in the Wild: A Review](https://arxiv.org/pdf/2006.04305.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2006.04305.pdf)
+2. Kai Shu, Suhang Wang, Dongwon Lee, and Huan Liu. [Mining Disinformation and Fake News: Concepts, Methods, and Recent Advancements](https://arxiv.org/pdf/2001.00623v1.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2001.00623v1.pdf) 
 
 
-3. 吴小坤, 赵甜芳. [自然语言处理技术在社会传播学中的应用研究和前景展望](http://www.jsjkx.com/CN/article/openArticlePDF.jsp?id=19090). 计算机科学 2020. [[Paper]](http://www.jsjkx.com/CN/article/openArticlePDF.jsp?id=19090)
+3. Zobeir Raisi, Mohamed A. Naiel, Paul Fieguth, Steven Wardell, and John Zelek. [Text Detection and Recognition in the Wild: A Review](https://arxiv.org/pdf/2006.04305.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2006.04305.pdf)
+
+
+4. 吴小坤, 赵甜芳. [自然语言处理技术在社会传播学中的应用研究和前景展望](http://www.jsjkx.com/CN/article/openArticlePDF.jsp?id=19090). 计算机科学 2020. [[Paper]](http://www.jsjkx.com/CN/article/openArticlePDF.jsp?id=19090)
 
 
 [【资源推荐】图神经网络的对抗攻击和防御相关文献集](https://github.com/ChandlerBang/awesome-graph-attack-papers). 
