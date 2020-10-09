@@ -11,8 +11,8 @@ Table of Contents
 
 <!--   * [Datasets / Shared Tasks](#Datasets_Shared_Tasks) -->
   * [Review on Fake News Detection](#Review_on_Fake_News_Detection)
-<!--   * [Multi-modal Representation Learning](#Multi-modal_Representation_Learning)
-  * [Multi-modal KG Construction](#Multi-modal_KG_Construction) -->
+  * [Study methods on Fake News Detection](#Study_methods_on_Fake_News_Detection)
+<!--   * [Multi-modal KG Construction](#Multi-modal_KG_Construction) -->
   * [Tutorials](#Tutorials)
 
 
@@ -44,8 +44,8 @@ Table of Contents
 [友好对抗学习的研究进展与优势分析 | ICML 2020论文](https://mp.weixin.qq.com/s/6E8wHt17P-GP76cSEcwSjA)
 
 
-<!-- ## Multi-modal_Representation_Learning
-1. Huapeng Xu, Guilin Qi, Jingjing Li, Meng Wang, Kang Xu, Huan Gao. [Fine-grained Image Classification by Visual-Semantic Embedding](https://www.ijcai.org/Proceedings/2018/0145.pdf). IJCAI 2018. [[Paper]](https://www.ijcai.org/Proceedings/2018/0145.pdf) -->
+## Study_methods_on_Fake_News_Detection
+1. Georgios Gravanis, Athena Vakali, Konstantinos Diamantaras, and Panagiotis Karadais. [Behind the cues: A benchmarking study for fake news detection](https://www.ijcai.org/Proceedings/2018/0145.pdf). Expert Systems with Applications 2019. 
 
 
 <!-- ## Multi-modal_KG_Construction
