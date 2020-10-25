@@ -44,6 +44,10 @@ Table of Contents
 [友好对抗学习的研究进展与优势分析 | ICML 2020论文](https://mp.weixin.qq.com/s/6E8wHt17P-GP76cSEcwSjA)
 
 
+[The Battle Against Online Harmful Information: The Cases of Fake News and Hate Speech](https://sites.google.com/view/harmful-inf-detect-cikm20tuto/home)
+
+
+
 ## Study_methods_on_Fake_News_Detection
 1. Georgios Gravanis, Athena Vakali, Konstantinos Diamantaras, and Panagiotis Karadais. [Behind the cues: A benchmarking study for fake news detection](https://www.ijcai.org/Proceedings/2018/0145.pdf). Expert Systems with Applications 2019. 
 
