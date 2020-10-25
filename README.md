@@ -49,7 +49,10 @@ Table of Contents
 
 
 ## Study_methods_on_Fake_News_Detection
-1. Georgios Gravanis, Athena Vakali, Konstantinos Diamantaras, and Panagiotis Karadais. [Behind the cues: A benchmarking study for fake news detection](https://www.ijcai.org/Proceedings/2018/0145.pdf). Expert Systems with Applications 2019. 
+1. Van-Hoang Nguyen, Kazunari Sugiyama, Preslav Nakov, and Min-Yen Kan. [FANG: Leveraging Social Context for Fake News Detection Using Graph Representation](https://dl.acm.org/doi/pdf/10.1145/3340531.3412046). CIKM 2020. 
+
+
+2. Georgios Gravanis, Athena Vakali, Konstantinos Diamantaras, and Panagiotis Karadais. [Behind the cues: A benchmarking study for fake news detection](https://www.ijcai.org/Proceedings/2018/0145.pdf). Expert Systems with Applications 2019. 
 
 
 <!-- ## Multi-modal_KG_Construction
