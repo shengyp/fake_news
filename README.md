@@ -44,7 +44,7 @@ Table of Contents
 [友好对抗学习的研究进展与优势分析 | ICML 2020论文](https://mp.weixin.qq.com/s/6E8wHt17P-GP76cSEcwSjA)
 
 
-[The Battle Against Online Harmful Information: The Cases of Fake News and Hate Speech](https://sites.google.com/view/harmful-inf-detect-cikm20tuto/home)
+[The Battle Against Online Harmful Information: The Cases of Fake News and Hate Speech (仇恨言论假新闻检测)](https://sites.google.com/view/harmful-inf-detect-cikm20tuto/home)
 
 
 
