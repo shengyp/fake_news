@@ -50,6 +50,9 @@ Table of Contents
 [《FANG: Leveraging Social Context for Fake News Detection Using Graph Representation》](https://zhuanlan.zhihu.com/p/332259790?utm_source=wechat_session&utm_medium=social&utm_oi=675293261783109632&utm_campaign=shareopn)
 
 
+[万字长文带你解读『虚假新闻检测』最新进展](https://mp.weixin.qq.com/s/VbrNg0rK2RM05e6dQQygug)
+
+
 
 ## Study_methods_on_Fake_News_Detection
 1. Van-Hoang Nguyen, Kazunari Sugiyama, Preslav Nakov, and Min-Yen Kan. [FANG: Leveraging Social Context for Fake News Detection Using Graph Representation](https://dl.acm.org/doi/pdf/10.1145/3340531.3412046). CIKM 2020. 
